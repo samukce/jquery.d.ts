@@ -1,0 +1,15 @@
+{
+  "name": "jquery.d.ts",
+  "version": "0.0.1",
+  "authors": [
+    "Boris Yankov,Christian Hoffmeister, Steve Fenton, Diullei Gomes, Tass Iliopoulos..."
+  ],
+  "description": "bower for jquery.d.ts",
+  "keywords": [
+    "jquery",
+    "typescript"
+  ],
+  "dependencies": {
+    "jquery": "*"
+  }
+}
